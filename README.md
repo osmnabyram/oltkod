@@ -14,6 +14,10 @@ A single static HTML page used as proof-of-click in an authorized social-enginee
 
 ---
 
+<div align="center">
+<img src="assets/how-it-works.svg" alt="How it works: an animated diagram of the tool's core flow." width="820" />
+</div>
+
 ## Overview
 
 This page is the safe destination for an **authorized** phishing-simulation campaign. When a participant clicks the test link, they are brought here and shown a clear message: the systems and their data are safe, this was a controlled exercise, and here is the trick that was used. It is purely informational — it has no form, no input fields, and collects nothing.
